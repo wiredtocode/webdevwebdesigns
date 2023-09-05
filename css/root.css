@@ -15,7 +15,7 @@
     --secondary: #FF9900;
     --secondaryLight: #FFBA43;
     --headerColor: #1a1a1a;
-    --bodyTextColor: #4E4B66;
+    --bodyTextColor: #000000;
     --bodyTextColorWhite: #FAFBFC;
     /* 13px - 16px */
     --topperFontSize: clamp(0.8125rem, 1.6vw, 1rem);
